@@ -1,0 +1,23 @@
+/* not-found.css */
+
+.error-container {
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.error-container img {
+    padding-top: 20px;
+}
+
+h1 {
+    color: black; /* Red color for the heading */
+}
+
+p {
+    color: #333; /* Dark gray color for the text */
+}
